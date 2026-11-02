@@ -1,0 +1,206 @@
+[
+  {
+    "text": "Power comes in response to a need, not a desire.",
+    "who": "Goku",
+    "series": "Dragon Ball Z",
+    "accent": "FFAE63"
+  },
+  {
+    "text": "Believe in the me that believes in you.",
+    "who": "Kamina",
+    "series": "Gurren Lagann",
+    "accent": "FF6B6B"
+  },
+  {
+    "text": "Whatever happens, happens.",
+    "who": "Spike Spiegel",
+    "series": "Cowboy Bebop",
+    "accent": "91B8FF"
+  },
+  {
+    "text": "I never go back on my word.",
+    "who": "Naruto Uzumaki",
+    "series": "Naruto",
+    "accent": "FFB347"
+  },
+  {
+    "text": "I am justice!",
+    "who": "Light Yagami",
+    "series": "Death Note",
+    "accent": "D5A6E8"
+  },
+  {
+    "text": "I'll take a potato chip... and eat it!",
+    "who": "Light Yagami",
+    "series": "Death Note",
+    "accent": "D5A6E8"
+  },
+  {
+    "text": "Humans are so interesting.",
+    "who": "Ryuk",
+    "series": "Death Note",
+    "accent": "D5A6E8"
+  },
+  {
+    "text": "Well, I'm gonna be the King of the Pirates!",
+    "who": "Monkey D. Luffy",
+    "series": "One Piece",
+    "accent": "FFCF70"
+  },
+  {
+    "text": "I'm doing it because I want to.",
+    "who": "Monkey D. Luffy",
+    "series": "One Piece",
+    "accent": "FFCF70"
+  },
+  {
+    "text": "I mustn't run away.",
+    "who": "Shinji Ikari",
+    "series": "Neon Genesis Evangelion",
+    "accent": "C4A1FF"
+  },
+  {
+    "text": "Unfamiliar ceiling.",
+    "who": "Shinji Ikari",
+    "series": "Neon Genesis Evangelion",
+    "accent": "C4A1FF"
+  },
+  {
+    "text": "In the name of the moon, I'll punish you!",
+    "who": "Usagi Tsukino",
+    "series": "Sailor Moon",
+    "accent": "FFA6D5"
+  },
+  {
+    "text": "Douse yourself in water and repent!",
+    "who": "Ami Mizuno",
+    "series": "Sailor Moon Crystal",
+    "accent": "FFA6D5"
+  },
+  {
+    "text": "If you completely forget your name, you'll never find your way back home.",
+    "who": "Haku",
+    "series": "Spirited Away",
+    "accent": "97DCC8"
+  },
+  {
+    "text": "I'm not leaving until you give me a job!",
+    "who": "Chihiro Ogino",
+    "series": "Spirited Away",
+    "accent": "97DCC8"
+  },
+  {
+    "text": "To see with eyes unclouded by hate.",
+    "who": "Ashitaka",
+    "series": "Princess Mononoke",
+    "accent": "AED581"
+  },
+  {
+    "text": "I like pancakes, provided they're not burnt.",
+    "who": "Jiji",
+    "series": "Kiki's Delivery Service",
+    "accent": "F6A5B7"
+  },
+  {
+    "text": "Oh, great. Now I'm suddenly the flight attendant.",
+    "who": "Jiji",
+    "series": "Kiki's Delivery Service",
+    "accent": "F6A5B7"
+  },
+  {
+    "text": "This world is made of... Love and Peace!",
+    "who": "Vash the Stampede",
+    "series": "Trigun",
+    "accent": "FF8A80"
+  },
+  {
+    "text": "Sorry, I don't do requests!",
+    "who": "Vash the Stampede",
+    "series": "Trigun",
+    "accent": "FF8A80"
+  },
+  {
+    "text": "The ticket to the future is always blank.",
+    "who": "Vash the Stampede",
+    "series": "Trigun",
+    "accent": "FF8A80"
+  },
+  {
+    "text": "I'm going to find out if I'm really alive.",
+    "who": "Spike Spiegel",
+    "series": "Cowboy Bebop",
+    "accent": "91B8FF"
+  },
+  {
+    "text": "Hunger is the best spice they say.",
+    "who": "Spike Spiegel",
+    "series": "Cowboy Bebop",
+    "accent": "91B8FF"
+  },
+  {
+    "text": "Who the hell do you think I am?!",
+    "who": "Kamina",
+    "series": "Gurren Lagann",
+    "accent": "FF6B6B"
+  },
+  {
+    "text": "Your drill is the drill that will pierce the Heavens!",
+    "who": "Kamina",
+    "series": "Gurren Lagann",
+    "accent": "FF6B6B"
+  },
+  {
+    "text": "Believe in yourself.",
+    "who": "Kamina",
+    "series": "Gurren Lagann",
+    "accent": "FF6B6B"
+  },
+  {
+    "text": "It's a terrible day for rain.",
+    "who": "Roy Mustang",
+    "series": "Fullmetal Alchemist: Brotherhood",
+    "accent": "FFD180"
+  },
+  {
+    "text": "One is all... and all is one...",
+    "who": "Izumi Curtis",
+    "series": "Fullmetal Alchemist: Brotherhood",
+    "accent": "FFD180"
+  },
+  {
+    "text": "You can become a hero.",
+    "who": "All Might",
+    "series": "My Hero Academia",
+    "accent": "80CBC4"
+  },
+  {
+    "text": "Because I am here.",
+    "who": "All Might",
+    "series": "My Hero Academia",
+    "accent": "80CBC4"
+  },
+  {
+    "text": "Someone who can't sacrifice anything, can't ever change anything.",
+    "who": "Armin Arlert",
+    "series": "Attack on Titan",
+    "accent": "B4C991"
+  },
+  {
+    "text": "If you don't fight, you can't win!",
+    "who": "Eren Yeager",
+    "series": "Attack on Titan",
+    "accent": "B4C991"
+  },
+  {
+    "text": "But I refuse.",
+    "who": "Rohan Kishibe",
+    "series": "JoJo's Bizarre Adventure: Diamond Is Unbreakable",
+    "accent": "D6A2E8"
+  },
+  {
+    "text": "I'm just a guy who's a hero for fun.",
+    "who": "Saitama",
+    "series": "One-Punch Man",
+    "accent": "FFE082"
+  }
+]
